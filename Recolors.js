@@ -1,4 +1,4 @@
-/* This is where the image is going to appear  TEST :D */
+/* This is where the image is going to appear  TEST :D test 2 :_)*/
 const mainImg = document.getElementById("resultImg");
 const mainCa = document.createElement("canvas");
 const mainCo = mainCa.getContext("2d");
