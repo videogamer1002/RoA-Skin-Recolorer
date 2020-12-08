@@ -579,8 +579,8 @@ const db = {
             placeholder : "0000-0000-0000-0000-0000-0000-0000"
         },
 	{
-		name : "Ragnir",
-		parts : [
+	    name : "Ragnir",
+	    parts : [
 		[ //scales
 			[187, 24, 36], [233, 78, 72], [153, 24, 29]
 		],
@@ -592,6 +592,7 @@ const db = {
 		]
 	    ],
 	    placeholder : "0000-0000-0000-0000-0000"
+	}
     ]
 }
 
