@@ -476,8 +476,8 @@ const db = {
         {
             name : "Kragg",
             parts : [
-                [ //rock (this part is all wrong but the 1st array, i have no idea whats happening here)
-                    [136, 104, 93], [187, 155, 143], [99, 70, 61], [217, 199, 193], [172, 136, 128], [133, 100, 108], [109, 77, 80]
+                [ //rock (fixed maybe ;)) (sprite colors removed, working on new template)
+                    [135, 104, 92], [191, 160, 147], [94, 67, 57]
                 ],
                 [ //skin
                     [121, 173, 100], [65, 129, 66], [45, 89, 46]
@@ -486,7 +486,7 @@ const db = {
                     [213, 216, 221], [139, 141, 167], [103, 105, 127]
                 ],
                 [ //shading
-                    [60, 36, 36]
+                    [60, 35, 35]
                 ]
             ],
             placeholder : "0000-0000-0000-0000-0000-0000-0000"
